@@ -9,7 +9,7 @@
 [![Data Model](https://img.shields.io/badge/Data%20Model-Star%20Schema-ED1C24?style=for-the-badge&logo=databricks&logoColor=white)](https://learn.microsoft.com/en-us/power-bi/guidance/star-schema)
 
 
-## Video Link-https://drive.google.com/file/d/1czKl3FSc-GszWGMvTFMf_oYf7Ea6Wu1n/view?usp=sharing
+Video Link-https://drive.google.com/file/d/1czKl3FSc-GszWGMvTFMf_oYf7Ea6Wu1n/view?usp=sharing
 <br/>
 
 > *"Numbers become decisions the moment they are placed next to a target."*
